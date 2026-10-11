@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:'Segoe UI', Tahoma,  Geneva, Verdana, sans-serif;
+}
+/*
+web sitelerinde kenarlarda beyaz boşluklar oluyor (margin/ padding) bunu engellemek için bu css reset kodunu ekledim evrensel seçici(*) kullandımki tüm varsayılan ayarlar iptal edildi
+ */

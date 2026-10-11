@@ -1,0 +1,24 @@
+# Python / IDE
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.idea/
+.vscode/
+# Local data and credentials
+*.db
+*.db-*
+*.sqlite*
+*.csv
+!data/books.example.csv
+.env
+.env.*
+!.env.example
+# Frontend
+node_modules/
+dist/
+build/
+*.log
+.DS_Store
+Thumbs.db
